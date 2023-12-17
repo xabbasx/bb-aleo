@@ -5,8 +5,6 @@ rustup default stable
 @hyyukwfslx2vhpj588vnguzqnndumr
 ]ه لینک زیر و افزونه را به مرورگر کروم اضافه
 
-WAL
-
 
 APPNAME=helloworld_"${WALLETADDRESS:4:6}"
 
