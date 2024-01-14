@@ -5,7 +5,7 @@ rustup default stable
 @hyyukwfslx2vhpj588vnguzqnndumr
 ]ه لینک زیر و افزونه را به مرورگر کروم 
 
-APPNAME=helloworld_"${WALLETADDRESS:4:6}"
+APPNAME=helloworld_"${WALLETADDRESS:4:6}
 leo new "${APPNAME}"
 
 PATHTOAPP=$(realpath -q $APPNAME)
