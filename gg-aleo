@@ -3,8 +3,7 @@
 rustup default stable
 -----------------------------------------------------------------
 @hyyukwfslx2vhpj588vnguzqnndumr
-]ه لینک زیر و افزونه را به مرورگر کرو
-
+]ه لینک زیر و افزونه را به مرورگر کر
 APPNAME=helloworld_"${WALLETADDRESS:4:6
 leo new "${APPNAME}"
 PATHTOAPP=$(realpath -q $APPNAME)gfg
